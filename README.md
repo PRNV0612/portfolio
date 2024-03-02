@@ -41,4 +41,4 @@ To run this portfolio website on your local system, follow these steps:
 
 ## Acknowledgments
 
-This repository is forked from [Chetan Verma](https://github.com/inclinedadarsh)'s [React Portfolio Template](https://github.com/inclinedadarsh/portfolio.git). Head over to his repo for more.
+This repository is forked from [Adarsh Dubey](https://github.com/inclinedadarsh)'s [React Portfolio Template](https://github.com/inclinedadarsh/portfolio.git). Head over to his repo for more.

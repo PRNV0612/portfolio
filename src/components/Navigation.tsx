@@ -111,7 +111,7 @@ const Navigation = () => {
           </li>
         </ul>
         <Link
-          href="mailto:dubeyadarshmain@gmail.com"
+          href="mailto:pranraj1506@gmail.com"
           className={`${buttonVariants({ variant: "outline" })} lg:ml-6`}
         >
           Say Hello
