@@ -22,12 +22,12 @@ export const metadata: Metadata = {
     title: "Pranav Raj • DevOps Engineer & Cybersecurity Enthusiast",
     description:
         "Pranav Raj is a freelance DevOps Engineer and Cybersecurity Enthusiast.",
-    metadataBase: new URL("https://adarshdubey.com"),
+    metadataBase: new URL("https://portfolio-wheat-six-95.vercel.app/"),
     openGraph: {
         title: "Pranav Raj • Web Dev, Cybersecurity Enthusiast & ",
         description:
             "Freelance DevOps Engineer, Cybersecurity Enthusiast",
-        url: "https://adarshdubey.com",
+        url: "https://portfolio-wheat-six-95.vercel.app/",
         siteName: "Pranav Raj Portfolio Website",
         images: {
             url: "/opengraph-image.png",
