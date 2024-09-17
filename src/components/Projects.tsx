@@ -3,7 +3,7 @@ import ProjectCard from "./ui/ProjectCard";
 import SectionTitle from "./ui/SectionTitle";
 
 // Import your images
-import guardians from "@/assets/guardians.png";
+import guardians from "@/assets/guardians.jpg";
 import hooterSandboxImage from "@/assets/Hooter.jpg";  // Add image for the Hooter Sandbox project
 import homeFinderImage from "@/assets/HomeFinder.jpg";        // Add image for the HomeFinder project
 
